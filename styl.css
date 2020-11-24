@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(91,240,121); 
+    padding: 20px;
+}
+
+div.szerokosc {
+  width: 914px;
+  text-align: left;
+}
+
+div.menu {
+   padding: 10px;
+}
+
+h1 {
+  color: rgb(244,244,251);
+}
+
+.h1glowna {
+  color: white;	
+}
+
+/* unvisited link */
+a:link {
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(4,4,123);
+}
+
+/* visited link */
+a:visited {
+
+}
+
+/* mouse over link */
+a:hover {
+ color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}
